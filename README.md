@@ -58,9 +58,19 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.gyazo.com/927900553ef274cf44e4c87f9ef8610d.png">
 <img src="https://i.gyazo.com/2c426c65fb8632beccf55065a8649382.png">
 <p>Section 5: Open the DC-1 virtual machine -> Go to Server Manager and select “Manage” and then “Add Roles and Features” -> Click next until you get to “Server Roles” -> Select only “Active Directory Domain Services and then next -> Click next until you get to “Confirmation” and then select “Install” -> Once it is done being installed select the flag at the top of the Server Manager Dashboard -> Click “Promote this server to a domain controller” -> Select “Add a new forest” -> Write “mydomain.com” as the Root domain name and select Next -> Use Password1 as the DRSM password then click next -> Continue to click next and then click install (Note: The VM will now restart to complete the installation) -> Log back into DC-1 but you must now login as username: mydomain.com\labuser and the password remains the same</p>
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://i.gyazo.com/002cce0a04acb7e5a6acb87c204f7ca9.png">
+<img src="https://i.gyazo.com/7429f203fbc6e96d232e8deeacb1a6b0.png">
+<img src="https://i.gyazo.com/bcb02728fb6abd8997b017e222f27564.png">
+<img src="https://i.gyazo.com/2b0d4d16cd68c28a531de8cb8daf243d.png">
+<img src="https://i.gyazo.com/4f1c4c9992ab8fcad64e04f8bff16408.png">
+<img src="https://i.gyazo.com/bc41685accdbfdf8d9d1543264f3f2e2.png">
+<img src="https://i.gyazo.com/5251ce4b4b683d7641e4d5621f67d192.png">
+<img src="https://i.gyazo.com/0a6eaf91ad9611e6f276fb3f0c97e916.png">
+<img src="https://i.gyazo.com/6535686817371af63bd9e08269112ccd.png">
+<img src="https://i.gyazo.com/7c31f9fc22750ba9950d9373c4622e9b.png">
+<img src="https://i.gyazo.com/18e067bced007e3dbc2b110157a3a2c9.png">
+<img src="https://i.gyazo.com/0c9324f96fac859e4854f71d05ef3e70.png">
+<img src="https://i.gyazo.com/0a7b004bb24c08d2d76d671f8609377f.png">
+<img src="https://i.gyazo.com/d1121eca0c6e5236b2091507f94fff19.png">
+<img src="https://i.gyazo.com/6417933072f0b01223a8b29c684f3b9a.png">
+<img src="https://i.gyazo.com/7ac566fa9cc2172d7c16210b3e7775e0.png">
