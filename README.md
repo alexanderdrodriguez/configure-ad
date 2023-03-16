@@ -32,10 +32,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.gyazo.com/142bdf7bba1856b23b5d6bc7287ff0ce.png">
 <img src="https://i.gyazo.com/82b68c920f205e3635850a113b6d3ea7.png">
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+<p>Section 2: Once the VM is finished being created go to “Virtual Machines” -> Select “Networking” -> Select the Network Interfaces name -> Select “IP configurations” -> Select the Private IP address number -> Change the “Assignment” from “Dynamic” to “Static”</p>
+<img src="https://i.gyazo.com/5189f0830049f96b8ea7a0c4355cba4e.png">
+<img src="https://i.gyazo.com/086ace2f525faa3a7f8350d446a8af5f.png">
+<img src="https://i.gyazo.com/4b7e95fe3c54d9c14de1beba915c441f.png">
+<img src="https://i.gyazo.com/79edeede8dc27f725e7c5c4366bc94eb.png">
+<img src="https://i.gyazo.com/82b2f02c71057357183691c34bb9c097.png">
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
