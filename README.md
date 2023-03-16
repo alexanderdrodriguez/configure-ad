@@ -38,10 +38,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.gyazo.com/4b7e95fe3c54d9c14de1beba915c441f.png">
 <img src="https://i.gyazo.com/79edeede8dc27f725e7c5c4366bc94eb.png">
 <img src="https://i.gyazo.com/82b2f02c71057357183691c34bb9c097.png">
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<p>Section 3: Select the “Virtual Machines” option in Azure ->  Select “Create Virtual Machine” -> Select the same Resource Group you used to create the “DC-1” VM -> Name the VM “Client-1” -> Select “Windows 10 Pro” as the Image -> Select “2vcpus, 16 GiB memory” for the “Size” option -> Create a username and password for the administrator account section -> Click “Review + create” -> Review both of the VMs properties information when “Client-1” is done being created to ensure that they are in the same “Virtual network/subnet</p>
+<img src="https://i.gyazo.com/42530219f21d00948f71f5b2f10e4639.png">
+<img src="https://i.gyazo.com/aad925bf3119f50a3fc73bcaf1c0179a.png">
+<img src="https://i.gyazo.com/c9fd3e9c824d2313dd47dadd523fb070.png">
+<img src="https://i.gyazo.com/33a58fc9bda355e1392c241498ba7c69.png">
+<img src="https://i.gyazo.com/925f7743bc5da56465ef21a801465dda.png">
