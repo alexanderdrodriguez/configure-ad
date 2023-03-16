@@ -57,3 +57,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.gyazo.com/2eac7fe96eeca8178cd97d05b119856f.png">
 <img src="https://i.gyazo.com/927900553ef274cf44e4c87f9ef8610d.png">
 <img src="https://i.gyazo.com/2c426c65fb8632beccf55065a8649382.png">
+<p>Section 5: Open the DC-1 virtual machine -> Go to Server Manager and select “Manage” and then “Add Roles and Features” -> Click next until you get to “Server Roles” -> Select only “Active Directory Domain Services and then next -> Click next until you get to “Confirmation” and then select “Install” -> Once it is done being installed select the flag at the top of the Server Manager Dashboard -> Click “Promote this server to a domain controller” -> Select “Add a new forest” -> Write “mydomain.com” as the Root domain name and select Next -> Use Password1 as the DRSM password then click next -> Continue to click next and then click install (Note: The VM will now restart to complete the installation) -> Log back into DC-1 but you must now login as username: mydomain.com\labuser and the password remains the same</p>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
