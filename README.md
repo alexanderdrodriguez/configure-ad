@@ -25,12 +25,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <br />
 <p>Section 1: Select the “Virtual Machines” option in Azure -> Select “Create Virtual Machine” -> Create a new Resource Group -> Name the VM “DC-1” -> Select “Windows Server 2022” as the Image -> Select “2vcpus, 16 GiB memory” for the “Size” option -> Create a username and password for the administrator account section -> Click “Review + create”</p>
-<img src="https://gyazo.com/e6a9e290e25895dc34d4e02d354ce40b">
-<img src="https://gyazo.com/d2fee5c127c16f240c64fc22addabeb3">
-<img src="https://gyazo.com/30ddb13bc9a509331963818d763f0be1">
-<img src="https://gyazo.com/d0aa64b7d15ae739868fcbe3c515a09f">
-<img src="https://gyazo.com/142bdf7bba1856b23b5d6bc7287ff0ce">
-<img src="https://gyazo.com/82b68c920f205e3635850a113b6d3ea7">
+<img src="https://i.gyazo.com/e6a9e290e25895dc34d4e02d354ce40b.png">
+<img src="https://i.gyazo.com/d2fee5c127c16f240c64fc22addabeb3.png">
+<img src="https://i.gyazo.com/30ddb13bc9a509331963818d763f0be1.png">
+<img src="https://i.gyazo.com/d0aa64b7d15ae739868fcbe3c515a09f.png">
+<img src="https://i.gyazo.com/142bdf7bba1856b23b5d6bc7287ff0ce.png">
+<img src="https://i.gyazo.com/82b68c920f205e3635850a113b6d3ea7.png">
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
