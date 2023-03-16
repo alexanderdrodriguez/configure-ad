@@ -44,3 +44,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.gyazo.com/c9fd3e9c824d2313dd47dadd523fb070.png">
 <img src="https://i.gyazo.com/33a58fc9bda355e1392c241498ba7c69.png">
 <img src="https://i.gyazo.com/925f7743bc5da56465ef21a801465dda.png">
+<p>Section 4: Login to the “Client-1” VM using Remote Desktop Connection and the VMs public IP address and administrator account details -> Open command prompt in the “Client-1” Windows 10 VM -> Ping DC-1’s private IP address with the command ping -t <ip address> -> Login to the “DC-1” VM using Remote Desktop Connection and the VMs public IP address and administrator account details -> Search “Windows firewall” into the Windows 10 search bar and select the option “Windows Defender Firewall” -> Click “Advanced settings” -> Select Inbound Rules -> Sort by “Protocol” -> Enable both of the options that have “ICMP Echo Request” in its name -> Check Client-1 to see that the ping is now replying</p>
+<img src="https://i.gyazo.com/e4c5cb0d06a36fdfe7ba92f475f3c8c9.png">
+<img src="https://i.gyazo.com/95b326db5c13069115cd39fc63ac9bdb.png">
+<img src="https://i.gyazo.com/4c957e955bd196a3e22fdff5f76616c1.png">
+<img src="https://i.gyazo.com/1bc4737ed9f42402654a510e5b10ffbf.png">
+<img src="https://i.gyazo.com/f23a167b54da56e650c42865ffd9f0fa.png">
+<img src="https://i.gyazo.com/d7b8aa39253ad6bb9373f95fc04f9ccf.png">
+<img src="https://i.gyazo.com/5836b6c5fee146d1da607f5e5d952524.png">
+<img src="https://i.gyazo.com/643d195d5c376f8ab07b4cd87357a027.png">
+<img src="https://i.gyazo.com/fab7aa0cbeb4d33b8af0c3e972d875d6.png">
+<img src="https://i.gyazo.com/2eac7fe96eeca8178cd97d05b119856f.png">
+<img src="https://i.gyazo.com/927900553ef274cf44e4c87f9ef8610d.png">
+<img src="https://i.gyazo.com/2c426c65fb8632beccf55065a8649382.png">
