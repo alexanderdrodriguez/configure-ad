@@ -88,3 +88,31 @@ From the Server Manager dashboard, select "Tools" from the top menu and then cho
 <img src="https://i.gyazo.com/62f542526d4c69f70dba813a2317e325.png">
 <img src="https://i.gyazo.com/60e628202b239b318f6d2232d6971215.png">
 <img src="https://i.gyazo.com/de538fed61a7b9b596335dc82cda503b.png">
+<p>Section 7: Log out or close the Remote Desktop connection to DC-1, then log back in using the "mydomain.com\jane_admin" account credentials. -> Use jane_admin as your admin account from now on use the "jane_admin" account as your admin account when accessing the Active Directory Users and Computers console or other administrative tools in Windows Server 2022</p>
+<img src="https://i.gyazo.com/c979e21e87be68c7a628025332b2b9a9.png">
+<p>Section 8: Now we are going to add Client-1 to the Domain Controller! In the Azure portal select the “Client-1” VM -> Click “Networking” -> Click the network interfaces name ->  Select DNS servers under “Settings” -> Select “Custom” and enter DC-1’s private IP address -> Click Save -> Once the change is completed restart Client-1 -> Login to Client-1 (Remote Desktop) using the original labuser account info -> Head to settings in Windows 10 -> Click “System” -> Click “About’ -> Click “”Rename this PC (advanced) -> Select “Change” -> Click “Domain:” and enter in mydomain.com and click OK -> Enter mydomain.com\jane_admin as the username (this is the account we made a domain admin earlier) and enter in the password you gave that account -> If it all went well a window should pop up saying “Welcome to the domain” -> Restart the Client-1 VM</p>
+<img src="https://i.gyazo.com/c979e21e87be68c7a628025332b2b9a9.png">
+<img src="https://i.gyazo.com/a98a7bcd9b19e4e0491fe720870c577f.png">
+<img src="https://i.gyazo.com/d5cd5c3d4aba68e5c4ecdd44c538ab51.png">
+<img src="https://i.gyazo.com/a065dc5877eb4cfe865d9d2f1925a3ca.png">
+<img src="https://i.gyazo.com/0fca136cad3e0912f15c6e47ad14e755.png">
+<img src="https://i.gyazo.com/3edaa86a9e7b51d9a349d57f736cf5d7.png">
+<img src="https://i.gyazo.com/7f0c8180e5466171006c9d168413530d.png">
+<img src="https://i.gyazo.com/87827edf789e906e599d43a70005f527.png">
+<img src="https://i.gyazo.com/dcbb9983c3cfff76c4c29d18d7b4d53c.png">
+<img src="https://i.gyazo.com/3fcd9e3541defc94d363d666e8744b04.png">
+<img src="https://i.gyazo.com/a39c327c8eff1885d49a2a3dc9877ee3.png">
+<img src="https://i.gyazo.com/59017ee6a5ca842ea6035576b9ac4f0c.png">
+<img src="https://i.gyazo.com/d2a7ce453b03b81d62b209093a398705.png">
+<img src="https://i.gyazo.com/8ea2735d809a568807a0de7f78240293.png">
+<img src="https://i.gyazo.com/a1c9440445fb1c13923927f5d1aa6d62.png">
+<p>Section 9: Enter into the DC-1 VM and verify that Client-1 pops up inside of the “Computers” section of Active Directory’s Users and Computers window -> Create a new organizational unit and name it “_CLIENTS” -> Drag the Client-1 computer into the “_CLIENTS” OU</p>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
