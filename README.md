@@ -107,12 +107,9 @@ From the Server Manager dashboard, select "Tools" from the top menu and then cho
 <img src="https://i.gyazo.com/8ea2735d809a568807a0de7f78240293.png">
 <img src="https://i.gyazo.com/a1c9440445fb1c13923927f5d1aa6d62.png">
 <p>Section 9: Enter into the DC-1 VM and verify that Client-1 pops up inside of the “Computers” section of Active Directory’s Users and Computers window -> Create a new organizational unit and name it “_CLIENTS” -> Drag the Client-1 computer into the “_CLIENTS” OU</p>
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://i.gyazo.com/2fc06e2dcd31240b7b1080d2a9aee8f9.png">
+<img src="https://i.gyazo.com/3ce843e3d594c8036bdfd3e843023e5f.png">
+<img src="https://i.gyazo.com/b8b3f13de5d4c39f907bcbfc5579b73f.png">
+<img src="https://i.gyazo.com/b5e29f354edce07682946122efd0cbda.png">
+<img src="https://i.gyazo.com/ff4a0964af131c29e62c247c0be81f62.png">
+<img src="https://i.gyazo.com/2e903d0d68c04d5f86c2ca135cd057f7.png">
