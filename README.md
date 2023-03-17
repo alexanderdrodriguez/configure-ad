@@ -74,3 +74,17 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.gyazo.com/d1121eca0c6e5236b2091507f94fff19.png">
 <img src="https://i.gyazo.com/6417933072f0b01223a8b29c684f3b9a.png">
 <img src="https://i.gyazo.com/7ac566fa9cc2172d7c16210b3e7775e0.png">
+<p>Section 6: Open Server Manager -> Open the Active Directory Users and Computers console
+From the Server Manager dashboard, select "Tools" from the top menu and then choose "Active Directory Users and Computers" -> Right-click on mydomain.com and select "New Organizational Unit" from the context menu. Name the new OU "_EMPLOYEES" and click "OK". -> Create a new OU named “_ADMINS” Repeat the last step, but name the new OU "_ADMINS" instead. -> Right-click on the "_EMPLOYEES" OU and select "New" from the context menu. -> Then, select "User" from the sub-menu to open the "New Object - User" wizard. Enter "Jane" for the first name and "Doe" for the last name, then set the "User logon name" to "jane_admin". -> Fill in any other required user information, such as the password, and click "Next" to proceed. -> Right click the Jane Doe name and select “Properties” -> Select “Member Of” and then “add” -> Enter “domain admins” as the name and select ok</p>
+<img src="https://i.gyazo.com/c64dff3a2971baa69b4a52aa130c054e.png">
+<img src="https://i.gyazo.com/c58b9a0574c90f044241a6d0b8d7e49c.png">
+<img src="https://i.gyazo.com/68ed6f39cf2b674246ad827277e41d2f.png">
+<img src="https://i.gyazo.com/70cdbd2bd7d2e47e9010c24deeb9f8af.png">
+<img src="https://i.gyazo.com/e3207416b0bfc288e936372b3e7290d4.png">
+<img src="https://i.gyazo.com/4ed6584a87bf20bbc825bd76141599f7.png">
+<img src="https://i.gyazo.com/b6c6d539f41855f70cdd69fbfeef92eb.png">
+<img src="https://i.gyazo.com/d154ea8ba76acf37da305a9b67d488eb.png">
+<img src="https://i.gyazo.com/f8a68944b07ee1c639ac71fba342fb48.png">
+<img src="https://i.gyazo.com/62f542526d4c69f70dba813a2317e325.png">
+<img src="https://i.gyazo.com/60e628202b239b318f6d2232d6971215.png">
+<img src="https://i.gyazo.com/de538fed61a7b9b596335dc82cda503b.png">
