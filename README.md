@@ -123,4 +123,4 @@ From the Server Manager dashboard, select "Tools" from the top menu and then cho
 <img src="https://i.gyazo.com/64be22dfb4f72d8570569b062124603c.png">
 <img src="https://i.gyazo.com/a3352675f4155482049e8b7c6518da32.png">
 <img src=https://i.gyazo.com/6ed8df86109ea18246f4ed97b798b2ed.png"">
-<img src="">
+<p>Section 11: Enter into the DC-1 VM as the jane_admin account user -> Search and then open the Powershell_ise application as an administrator -> Create a new file -> Paste the code from this script into Powershell (https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1) -> Change the number of users from 10000 to 100 -> Run the script by pressing on the play button at the top of Powershell ISE (Note: This Powershell script code has automatically created 100 user accounts in the Active Directory) -> Note down a random username from the active directory -> Login into Client-1 using that random username via Remote Desktop -> Username = mydomain.com\user.name Password = Password1</p>
