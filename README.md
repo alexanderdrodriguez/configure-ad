@@ -113,3 +113,14 @@ From the Server Manager dashboard, select "Tools" from the top menu and then cho
 <img src="https://i.gyazo.com/b5e29f354edce07682946122efd0cbda.png">
 <img src="https://i.gyazo.com/ff4a0964af131c29e62c247c0be81f62.png">
 <img src="https://i.gyazo.com/2e903d0d68c04d5f86c2ca135cd057f7.png">
+<p>Section 10: Enter into the Client-1 VM -> Search for the “Settings” app in Windows 10 and select the icon -> Click the “System” icon -> Click the “Remote Desktop” option -> Then select “Select users that can remotely access this PC” -> Select add and enter the name “domain users’ then check all names and lastly click “OK” (Note: You are now able to login into Client-1 as a normal non-administrative user)</p>
+<img src="https://i.gyazo.com/765a956354cc0bc75ca17edc7cbdcf37.png">
+<img src="https://i.gyazo.com/afb3acced72fe804be47bcc3fd2fce85.png">
+<img src="https://i.gyazo.com/337e28bb29d8217f1587c4cc9157fd41.png">
+<img src="https://i.gyazo.com/b1998e7d86a5226e0d350db32fa13564.png">
+<img src="https://i.gyazo.com/bfa215aba1544192eb9e1afaf753ae9c.png">
+<img src="https://i.gyazo.com/3f43bc72b307d63ce4c8923b4190980e.png">
+<img src="https://i.gyazo.com/64be22dfb4f72d8570569b062124603c.png">
+<img src="https://i.gyazo.com/a3352675f4155482049e8b7c6518da32.png">
+<img src=https://i.gyazo.com/6ed8df86109ea18246f4ed97b798b2ed.png"">
+<img src="">
