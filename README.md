@@ -122,5 +122,16 @@ From the Server Manager dashboard, select "Tools" from the top menu and then cho
 <img src="https://i.gyazo.com/3f43bc72b307d63ce4c8923b4190980e.png">
 <img src="https://i.gyazo.com/64be22dfb4f72d8570569b062124603c.png">
 <img src="https://i.gyazo.com/a3352675f4155482049e8b7c6518da32.png">
-<img src=https://i.gyazo.com/6ed8df86109ea18246f4ed97b798b2ed.png"">
-<p>Section 11: Enter into the DC-1 VM as the jane_admin account user -> Search and then open the Powershell_ise application as an administrator -> Create a new file -> Paste the code from this script into Powershell (https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1) -> Change the number of users from 10000 to 100 -> Run the script by pressing on the play button at the top of Powershell ISE (Note: This Powershell script code has automatically created 100 user accounts in the Active Directory) -> Note down a random username from the active directory -> Login into Client-1 using that random username via Remote Desktop -> Username = mydomain.com\user.name Password = Password1</p>
+<img src="https://i.gyazo.com/6ed8df86109ea18246f4ed97b798b2ed.png">
+<p>Section 11: Enter into the DC-1 VM as the jane_admin account user -> Search and then open the Powershell_ise application as an administrator -> Copy the code from this url (https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1) using the copy icon above the code -> Create a new file in Powershell -> Paste the code from the script you previously copied -> Change the number of users from 10000 to 100 -> Run the script by pressing on the play button at the top of Powershell ISE (Note: This Powershell script code has automatically created 100 user accounts in the Active Directory) -> Note down a random username from the active directory -> Login into Client-1 using that random username via Remote Desktop -> Username = mydomain.com\user.name Password = Password1</p>
+<img src="https://i.gyazo.com/70226bfef483bf9221209da72fbcb897.png">
+<img src="https://i.gyazo.com/4d5f709e2fa6a686b91dac5f7fb554a3.png">
+<img src="https://i.gyazo.com/3b5432f7fa9ac6c2183c072e8ee1af23.png">
+<img src="https://i.gyazo.com/d05ef2a94eecebb7e1669842bc00378c.png">
+<img src="https://i.gyazo.com/a071b4c042073d3a2fa5a92f844d4fed.png">
+<img src="https://i.gyazo.com/c8f49cef1c2873a7d2f8e08e96eff35f.png">
+<img src="https://i.gyazo.com/3a20ec05a91c60da04c24ec68dd8363e.png">
+<img src="https://i.gyazo.com/fa94f66111d0a5ff708b656e2fae1629.png">
+<img src="https://i.gyazo.com/368f9ce60e3f68646368870466b0ade7.png">
+<img src="https://i.gyazo.com/351932c46b537639d4fb39da2dd43c6f.png">
+<img src="https://i.gyazo.com/f5cda273e15ebce56e055ad6f454dc9d.png">
