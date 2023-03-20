@@ -135,3 +135,4 @@ From the Server Manager dashboard, select "Tools" from the top menu and then cho
 <img src="https://i.gyazo.com/368f9ce60e3f68646368870466b0ade7.png">
 <img src="https://i.gyazo.com/351932c46b537639d4fb39da2dd43c6f.png">
 <img src="https://i.gyazo.com/f5cda273e15ebce56e055ad6f454dc9d.png">
+<p>Congrats you’ve just completed all of the steps for this Active Diretory configuration project tutorial!</p>
