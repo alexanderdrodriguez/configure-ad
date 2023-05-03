@@ -7,7 +7,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Implement An Active Directory In The Cloud Using Microsoft Azure](https://youtu.be/Skud9OEovqw)
+- ### [YouTube: How To Implement An Active Directory In The Cloud Using Microsoft Azure](https://youtu.be/6om-kq9T49I)
 
 <h2>Environments and Technologies Used</h2>
 
